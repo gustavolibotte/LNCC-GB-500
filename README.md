@@ -48,3 +48,4 @@
 - 10/01/2022: Distribuições de probabilidade [:movie_camera:](https://drive.google.com/file/d/1aWPrgRfRtChlK17ZrHbZjYYFQmcawTUF/view?usp=sharing)
 - 12/01/2022: Mais sobre inferência Bayesiana e exemplos [:movie_camera:](https://drive.google.com/file/d/16nYFCUNVDJVMcnogtg8VsN-uhx0dBRWP/view?usp=sharing)
 - 14/01/2022: Aproximação de Monte Carlo [:movie_camera:](https://drive.google.com/file/d/1ENIDVk3Xcvp6VFa78vexBf3zqbeHMGEd/view?usp=sharing)
+- 17/01/2022: Aproximação de Monte Carlo (continuação) [:movie_camera:](https://drive.google.com/file/d/1GgMFc1NVV8TOEgSzmP08_Y1KY393IRgJ/view?usp=sharing)
