@@ -49,3 +49,8 @@
 - 12/01/2022: Mais sobre inferência Bayesiana e exemplos [:movie_camera:](https://drive.google.com/file/d/16nYFCUNVDJVMcnogtg8VsN-uhx0dBRWP/view?usp=sharing)
 - 14/01/2022: Aproximação de Monte Carlo [:movie_camera:](https://drive.google.com/file/d/1ENIDVk3Xcvp6VFa78vexBf3zqbeHMGEd/view?usp=sharing)
 - 17/01/2022: Aproximação de Monte Carlo (continuação) [:movie_camera:](https://drive.google.com/file/d/1GgMFc1NVV8TOEgSzmP08_Y1KY393IRgJ/view?usp=sharing)
+- 19/01/2022: Aproximação de Monte Carlo (continuação) [:movie_camera:](https://drive.google.com/file/d/1bBUG34i2yueQUpETRcIj5oqXVa_O7Wto/view?usp=sharing)
+- 21/01/2022: Introdução a cadeias de Markov e amostrador de Gibbs [:movie_camera:](https://drive.google.com/file/d/1P-nHc2lxlQ8um8h-MfGF1lH3AOEKQOTW/view?usp=sharing)
+- 24/01/2022: Algoritmo de Metropolis e estimativas de parâmetros [:movie_camera:](https://drive.google.com/file/d/1vd1jdxsm6ZhmsEbCH76wQ5Yo-0lTEaW0/view?usp=sharing)
+- 26/01/2022: Técnicas de amostragem e estimativas pontuais [:movie_camera:](https://drive.google.com/file/d/1c36V73TDz2Mbiz-ngEOPK61JUDWPVuLs/view?usp=sharing)
+- 28/01/2022: Algoritmo de Metropolis-Hastings e diagnósticos de cadeias [:movie_camera:](https://drive.google.com/file/d/1Bfg-oHFH8Dm_WBziyoU47H_6l1mlZ3M7/view?usp=sharing)
