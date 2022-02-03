@@ -43,6 +43,9 @@
 - Segundas, quartas e sextas-feiras, das 9h às 10h30.
 
 ### Histórico de aulas (atualizado continuamente até o fim do curso):
+
+Os slides das aulas estão na pasta apropriada. Os números das aulas nos slides corresponde aos dias das aulas. Alguns slides podem ter sido usados em mais de uma aula ou pode ter havido aulas sem slides. Portanto, a sequência dos nomes tem algumas lacunas.
+
 - 05/01/2022: Conceitos fundamentais de probabilidade e Teorema de Bayes [:movie_camera:](https://drive.google.com/file/d/1PeBrogf1t69qRT8B6xR8EQP1S7akDWIQ/view?usp=sharing)
 - 07/01/2022: Variáveis aleatórias e medidas de dispersão [:movie_camera:](https://drive.google.com/file/d/1_omkxK9sl4JvHn1nfq89jdOi1c8tcIZc/view?usp=sharing)
 - 10/01/2022: Distribuições de probabilidade [:movie_camera:](https://drive.google.com/file/d/1aWPrgRfRtChlK17ZrHbZjYYFQmcawTUF/view?usp=sharing)
@@ -54,3 +57,4 @@
 - 24/01/2022: Algoritmo de Metropolis e estimativas de parâmetros [:movie_camera:](https://drive.google.com/file/d/1vd1jdxsm6ZhmsEbCH76wQ5Yo-0lTEaW0/view?usp=sharing)
 - 26/01/2022: Técnicas de amostragem e estimativas pontuais [:movie_camera:](https://drive.google.com/file/d/1c36V73TDz2Mbiz-ngEOPK61JUDWPVuLs/view?usp=sharing)
 - 28/01/2022: Algoritmo de Metropolis-Hastings e diagnósticos de cadeias [:movie_camera:](https://drive.google.com/file/d/1Bfg-oHFH8Dm_WBziyoU47H_6l1mlZ3M7/view?usp=sharing)
+- 02/02/2022: Introdução a modelos compartimentais [:movie_camera:](https://drive.google.com/file/d/1jfrjykbrfFtjAMjKQVITNHLRnNEgfwAy/view?usp=sharing)
