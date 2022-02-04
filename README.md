@@ -58,3 +58,4 @@ Os slides das aulas estão na pasta apropriada. Os números das aulas nos slides
 - 26/01/2022: Técnicas de amostragem e estimativas pontuais [:movie_camera:](https://drive.google.com/file/d/1c36V73TDz2Mbiz-ngEOPK61JUDWPVuLs/view?usp=sharing)
 - 28/01/2022: Algoritmo de Metropolis-Hastings e diagnósticos de cadeias [:movie_camera:](https://drive.google.com/file/d/1Bfg-oHFH8Dm_WBziyoU47H_6l1mlZ3M7/view?usp=sharing)
 - 02/02/2022: Introdução a modelos compartimentais [:movie_camera:](https://drive.google.com/file/d/1jfrjykbrfFtjAMjKQVITNHLRnNEgfwAy/view?usp=sharing)
+- 04/02/2022: Modelo SIR sem demografia [:movie_camera:](https://drive.google.com/file/d/1XNVXNd4JsxhR6W0zoUdVxiIs9metdPOf/view?usp=sharing)
