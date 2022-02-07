@@ -59,3 +59,4 @@ Os slides das aulas estão na pasta apropriada. Os números das aulas nos slides
 - 28/01/2022: Algoritmo de Metropolis-Hastings e diagnósticos de cadeias [:movie_camera:](https://drive.google.com/file/d/1Bfg-oHFH8Dm_WBziyoU47H_6l1mlZ3M7/view?usp=sharing)
 - 02/02/2022: Introdução a modelos compartimentais [:movie_camera:](https://drive.google.com/file/d/1jfrjykbrfFtjAMjKQVITNHLRnNEgfwAy/view?usp=sharing)
 - 04/02/2022: Modelo SIR sem demografia [:movie_camera:](https://drive.google.com/file/d/1XNVXNd4JsxhR6W0zoUdVxiIs9metdPOf/view?usp=sharing)
+- 07/02/2022: Modelo SIR com demografia e dinâmicas oscilatórias [:movie_camera:](https://drive.google.com/file/d/1p8eroDaIQ3O2l6g1yXFvDaxN1F9CE6xG/view?usp=sharing)
