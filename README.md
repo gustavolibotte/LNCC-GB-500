@@ -61,3 +61,4 @@ Os slides das aulas estão na pasta apropriada. Os números das aulas nos slides
 - 04/02/2022: Modelo SIR sem demografia [:movie_camera:](https://drive.google.com/file/d/1XNVXNd4JsxhR6W0zoUdVxiIs9metdPOf/view?usp=sharing)
 - 07/02/2022: Modelo SIR com demografia e dinâmicas oscilatórias [:movie_camera:](https://drive.google.com/file/d/1p8eroDaIQ3O2l6g1yXFvDaxN1F9CE6xG/view?usp=sharing)
 - 09/02/2022: Modelos sem imunidade e com período latente [:movie_camera:](https://drive.google.com/file/d/17eaBgmoeJJ4yQ4_NFsMOeqC-KxH_3IHe/view?usp=sharing)
+- 11/02/2022: Modelo para infecções crônicas e para populações heterogêneas [:movie_camera:](https://drive.google.com/file/d/1uXbFrYpaxNmrYddiXkkn8gQ0on4tCcMh/view?usp=sharing)
