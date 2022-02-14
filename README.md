@@ -62,3 +62,4 @@ Os slides das aulas estão na pasta apropriada. Os números das aulas nos slides
 - 07/02/2022: Modelo SIR com demografia e dinâmicas oscilatórias [:movie_camera:](https://drive.google.com/file/d/1p8eroDaIQ3O2l6g1yXFvDaxN1F9CE6xG/view?usp=sharing)
 - 09/02/2022: Modelos sem imunidade e com período latente [:movie_camera:](https://drive.google.com/file/d/17eaBgmoeJJ4yQ4_NFsMOeqC-KxH_3IHe/view?usp=sharing)
 - 11/02/2022: Modelo para infecções crônicas e para populações heterogêneas [:movie_camera:](https://drive.google.com/file/d/1uXbFrYpaxNmrYddiXkkn8gQ0on4tCcMh/view?usp=sharing)
+- 14/02/2022: O método da Matriz de Próxima Geração para estimação do R0 [:movie_camera:](https://drive.google.com/file/d/1_dsWp7jXf2P4hODTgxBiWm0lLgsQC-Xn/view?usp=sharing)
