@@ -63,3 +63,4 @@ Os slides das aulas estão na pasta apropriada. Os números das aulas nos slides
 - 09/02/2022: Modelos sem imunidade e com período latente [:movie_camera:](https://drive.google.com/file/d/17eaBgmoeJJ4yQ4_NFsMOeqC-KxH_3IHe/view?usp=sharing)
 - 11/02/2022: Modelo para infecções crônicas e para populações heterogêneas [:movie_camera:](https://drive.google.com/file/d/1uXbFrYpaxNmrYddiXkkn8gQ0on4tCcMh/view?usp=sharing)
 - 14/02/2022: O método da Matriz de Próxima Geração para estimação do R0 [:movie_camera:](https://drive.google.com/file/d/1_dsWp7jXf2P4hODTgxBiWm0lLgsQC-Xn/view?usp=sharing)
+- 16/02/2022: Modelo com dependência de idade e para múltiplos patógenos [:movie_camera:](https://drive.google.com/file/d/15tOzW1aQtCeezWYLPj9Bca_O1vHNE1x5/view?usp=sharing)
