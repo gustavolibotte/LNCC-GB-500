@@ -42,7 +42,7 @@
 ### Aulas:
 - Segundas, quartas e sextas-feiras, das 9h às 10h30.
 
-### Histórico de aulas (atualizado continuamente até o fim do curso):
+### Histórico de aulas:
 
 Os slides das aulas estão na pasta apropriada. Os números das aulas nos slides corresponde aos dias das aulas. Alguns slides podem ter sido usados em mais de uma aula ou pode ter havido aulas sem slides. Portanto, a sequência dos nomes tem algumas lacunas.
 
@@ -64,3 +64,5 @@ Os slides das aulas estão na pasta apropriada. Os números das aulas nos slides
 - 11/02/2022: Modelo para infecções crônicas e para populações heterogêneas [:movie_camera:](https://drive.google.com/file/d/1uXbFrYpaxNmrYddiXkkn8gQ0on4tCcMh/view?usp=sharing)
 - 14/02/2022: O método da Matriz de Próxima Geração para estimação do R0 [:movie_camera:](https://drive.google.com/file/d/1_dsWp7jXf2P4hODTgxBiWm0lLgsQC-Xn/view?usp=sharing)
 - 16/02/2022: Modelo com dependência de idade e para múltiplos patógenos [:movie_camera:](https://drive.google.com/file/d/15tOzW1aQtCeezWYLPj9Bca_O1vHNE1x5/view?usp=sharing)
+- 18/02/2022: Medidas de controle de doenças infecciosas [:movie_camera:](https://drive.google.com/file/d/1FzOR-vg4qVfd7C40CVCaPHyht7kQu1iB/view?usp=sharing)
+- 21/02/2022: Modelos de metapopulação [:movie_camera:](https://drive.google.com/file/d/1QsGGGPGmHTP5zBr4D49AzbWadsjrnVgW/view?usp=sharing)
